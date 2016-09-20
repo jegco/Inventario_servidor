@@ -3,12 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Logica_proyecto;
+
+package logica_generadores;
 
 /**
  *
- * @author jumbo
+ * @author j
  */
-public class Mayorista {
+public class Generados_aleatorios {
     
 }
